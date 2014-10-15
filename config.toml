@@ -1,0 +1,11 @@
+title = "my new hugo site"
+languageCode = "en-us"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+baseurl = "/"
+canonifyurls = true
+[indexes]
+   category = "categories"
+   tag = "tags"
